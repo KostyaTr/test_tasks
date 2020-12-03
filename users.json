@@ -1,0 +1,39 @@
+[
+  {
+    "firstName": "Kostya",
+    "lastName": "Trepashko",
+    "mail": "mail@mail.com",
+    "roles": [
+      "developer"
+    ],
+    "phoneNumbers": [
+      "37529 0000000"
+    ]
+  },
+  {
+    "firstName": "Santa",
+    "lastName": "Claus",
+    "mail": "jap@mail.jp",
+    "roles": [
+      "santa",
+      "cookie eater"
+    ],
+    "phoneNumbers": [
+      "37500 0000000"
+    ]
+  },
+  {
+    "firstName": "Fam",
+    "lastName": "Sam",
+    "mail": "famsam@fam.sam",
+    "roles": [
+      "fam",
+      "sam"
+    ],
+    "phoneNumbers": [
+      "37522 1231231",
+      "37544 1231231",
+      "37529 1231231"
+    ]
+  }
+]
